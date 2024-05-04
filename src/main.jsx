@@ -1,5 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+import {app} from "./firebaseConfig";
 import {
   RouterProvider,
 } from "react-router-dom";
